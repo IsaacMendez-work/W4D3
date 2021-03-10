@@ -1,3 +1,4 @@
+// https://jsonapi.org/format/#document-resource-object-attributes
 // Create a quick demonstration of the topic. Be sure to comment out your code and take good notes. Then you will teach back your topic to your group. First, please discuss who will cover which topic so there are no duplicates within your group. There are plenty to choose from!  
 // 
 // FIELDS: An object's attribute plus its relationship
